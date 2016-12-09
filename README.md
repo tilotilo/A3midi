@@ -1,2 +1,2 @@
 # A3midi
-a mash up of examples from Teensy examples to sync hw midi device and dac, with USB midi.
+a mash up of examples from Teensy examples to sync hw midi devices and onboard dac, via USB midi.
